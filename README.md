@@ -1,3 +1,5 @@
+<img src="./natural-speech.png" width="500px"></img>
+
 ## Natural Speech - Pytorch (wip)
 
 Implementation of the neural network proposed in <a href="https://arxiv.org/abs/2205.04421">Natural Speech</a>, a text-to-speech generator that is indistinguishable from human recordings for the first time. The novelty of the paper includes a differentiable duration predictor module, a bidirectional prior / posterior, as well as attending to a set of learned memories.
